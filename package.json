@@ -1,0 +1,10 @@
+{
+  "name": "cosmic-ballet-traversal",
+  "version": "1.0.0",
+  "description": "Zero-float Q16.16 meditative Journey-inspired manifold traversal game.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/ballet-physics.test.mjs"
+  },
+  "license": "MIT"
+}
